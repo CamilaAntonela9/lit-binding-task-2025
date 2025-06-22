@@ -1,0 +1,33 @@
+{
+  "name": "lit-binding-task-2025",
+  "version": "1.0.0",
+  "description": "Tarea académica para implementar data binding usando LitElement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "webpack serve --open --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamilaAntonela9/lit-binding-task-2025.git"
+  },
+  "author": "Camila Obando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamilaAntonela9/lit-binding-task-2025/issues"
+  },
+  "homepage": "https://github.com/CamilaAntonela9/lit-binding-task-2025#readme",
+  "dependencies": {
+    "lit": "^3.3.0",
+    "lit-element": "^4.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5",
+    "babel-loader": "^9.1.3",
+    "html-webpack-plugin": "^5.5.3",
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
