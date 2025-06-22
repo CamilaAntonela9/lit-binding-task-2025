@@ -1,5 +1,5 @@
-# `<mood-selector>` – Componente de Selección de Estado de Ánimo
-
+## `<mood-selector>` – Componente de Selección de Estado de Ánimo
+### Nombre: Camila Antonela Obando Buitron
 ## Descripción general del componente
 
 El componente `<mood-selector>` es un Web Component desarrollado con LitElement que permite a los usuarios seleccionar su estado de ánimo mediante un menú desplegable. Al elegir un estado, se muestra un emoji representativo junto con un mensaje personalizado que refleja ese estado emocional.
